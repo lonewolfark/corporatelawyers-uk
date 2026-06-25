@@ -51,7 +51,7 @@ export default function Footer() {
             </h4>
 
             <ul className="mt-5 space-y-3 text-slate-400">
-              <li>020 0000 0000</li>
+              <li>074 1861 1342</li>
               <li>info@corporatelawyers.uk</li>
               <li>United Kingdom</li>
             </ul>
