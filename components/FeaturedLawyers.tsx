@@ -2,12 +2,12 @@ import Image from "next/image";
 
 const lawyers = [
   {
-    name: "James Harrington",
+    name: "Kit Breach",
     title: "Corporate Partner",
     image: "/images/team/lawyer1.jpg",
   },
   {
-    name: "Sarah Mitchell",
+    name: "Mattew Saint",
     title: "Commercial Solicitor",
     image: "/images/team/lawyer2.jpg",
   },
